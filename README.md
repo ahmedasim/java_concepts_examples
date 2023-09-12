@@ -8,6 +8,9 @@ We always welcome contributions from the community!
 <b>Please note that this directory is continually updated with new hacker rank solutions using JAVA on a weekly basis.</b>
 
 <b>Contact me :</b><br>
-Linked in : <b>https://www.linkedin.com/in/ahmedasim01/</b> <br>
-Email : <b>sendtoasimoff@gmail.com</b>
-Hacker Rank : https://www.hackerrank.com/ahmedasim01
+Linked in: <b>https://www.linkedin.com/in/ahmedasim01/</b> <br>
+Email: <b>sendtoasimoff@gmail.com</b>
+Hacker Rank: <b>https://www.hackerrank.com/ahmedasim01</b>
+Medium: <b>https://medium.com/@ahmedasim01</b>
+Medium -> Function Interface: <b>https://medium.com/@ahmedasim01/functional-interface-18575b7e68a4</b>
+                              
