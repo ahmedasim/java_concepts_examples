@@ -9,8 +9,8 @@ We always welcome contributions from the community!
 
 <b>Contact me :</b><br>
 Linked in: <b>https://www.linkedin.com/in/ahmedasim01/</b> <br>
-Email: <b>sendtoasimoff@gmail.com</b>
-Hacker Rank: <b>https://www.hackerrank.com/ahmedasim01</b>
-Medium: <b>https://medium.com/@ahmedasim01</b>
-Medium -> Function Interface: <b>https://medium.com/@ahmedasim01/functional-interface-18575b7e68a4</b>
+Email: <b>sendtoasimoff@gmail.com</b> <br>
+Hacker Rank: <b>https://www.hackerrank.com/ahmedasim01</b> <br>
+Medium: <b>https://medium.com/@ahmedasim01</b> <br>
+Medium -> Function Interface: <b>https://medium.com/@ahmedasim01/functional-interface-18575b7e68a4</b> <br>
                               
